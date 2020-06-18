@@ -1,0 +1,86 @@
+﻿amazing slider, check out
+
+Javid Google Map Place ID : ChIJF4QNAHj9jT8RnGlgWsKQV-0
+
+https://gist.github.com/taniarascia/56893ff29f64038dca91
+orgColor ==  background-color: rgba(3, 126, 243, 1);
+
+Google Image Project
+  https://codepen.io/SitePoint/pen/EabNrX
+
+  .ellipsis { text-overflow: ellipsis; }
+
+
+
+  //change Language Pack
+
+  //JS
+  <script>
+    function changelang2fa() {
+      document.getElementsByTagName("HTML")[0].setAttribute("lang", "fa");
+    }
+    function changelang2en() {
+      document.getElementsByTagName("HTML")[0].setAttribute("lang", "en");
+    }
+  </script>
+
+  //CSS
+  .english, .farsi {
+    display: none;
+  }
+
+  .english:lang(en), .farsi:lang(fa) {
+    display: block;
+  }
+
+  //HTML
+  <div class="english"> text in english</div>
+  <div class="farsi"> متن فارسی</div>
+
+
+
+@media sm md
+  .nav-link {
+    font-size: 0.8rem;
+    line-height: 1.25;
+  }
+
+
+---------------------------------------------------------------------------
+<script async src="https://telegram.org/js/telegram-widget.js?4" data-telegram-post="PardisGholhak/1373" data-width="100%"></script>
+
+---------------------------------------------------------------------------
+#005ba1		rgba(0, 91, 161, 1)		BlueViolet
+#f56101		rgba(245, 97, 1, 1)		RedOrange
+#7aae3f		rgba(122, 174, 63, 1)		YellowGreen
+
+
+#F57804   rgba(245, 120 ,4 ,1)   ORANGE
+#1e60b4   rgba(30, 96, 180, 1)   BLUEVIOLET
+#339EC    rgba(51, 158, 197, 1)  BLUEGREEN
+
+
+
+JAVID.SCHOOL color:
+    ShitGreen     rgba(48, 195, 158, .9)
+    ShitBlue      rgba(10, 142, 160, .9)
+
+NJL.INSTITUTE colors
+    http://www.color-hex.com/color/48dbfb   #48DBFB   rgba(72, 219, 251, 1)   BlueONE
+    http://www.color-hex.com/color/fb6848   #FB6848   rgba(251, 104, 72, 1)   OrangeONE
+
+
+
+
+    BLUE          rgba(184, 222, 245, 1)
+    ORANGE        rgba(253, 182, 78, 1)
+    GREEN         rgba(193, 221, 137, 1)
+
+
+---------------------------------------------------------------------------
+http://kenwheeler.github.io/slick/
+---------------------------------------------------------------------------
+
+https://icons8.com/cssload/en/miscellaneous
+
+---------------------------------------------------------------------------
